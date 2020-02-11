@@ -1,0 +1,4 @@
+Q3:
+
+prog2 is better because it has loose coupling, this will make it easier to maintain and edit certain parameters.
+
